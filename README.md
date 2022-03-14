@@ -46,25 +46,28 @@ The designed workflow ensures all annotations to be made in relatively high qual
 </p>
 
 ### Dataset statistics.
-
+BTS contains 14250 images: street signs-3,761; shop signs-4,145; plaques-2,158;
+attractions-1,024; covers of books-2,070; banners-601; couplets-491. 
+The distribution is nearly balanced,
+which is consistent with real-world distribution.
 
 ### Download
 
-Our dataset (TextSeg) is academia-only and cannot be used on any commercial project and research. To download the data, please send a request email to *textseg.dataset@gmail.com* and tell us which school you are affiliated with. 
-
 A full download should contain these files:
 
-* ```image.tar.gz``` contains 4024 images.
-* ```annotation.tar.gz``` labels corresponding to the images. These three types of files are included:
-  * ```[dataID]_anno.json``` contains all word- and character-level translations and bounding polygons.
-  * ```[dataID]_mask.png``` contains all character masks. Character mask label value will be ordered from 1 to n. Label value 0 means background, 255 means ignore. 
-  * ```[dataID]_maskeff.png``` contains all character masks **with effect**. 
-  * ```Adobe_Research_License_TextSeg.txt``` license file.
-* ```semantic_label.tar.gz``` contains all word-level (semantic-level) masks. It contains:
-  * ```[dataID]_maskfg.png``` 0 means background, 100 means word, 200 means word-effect, 255 means ignore. (The ```[dataID]_maskfg.png``` can also be generated using ```[dataID]_mask.png``` and ```[dataID]_maskeff.png```)
-* ```split.json``` the official split of train, val and test.
-* [Optional] ```semantic_label_v1.tar.gz``` the old version of label that was used in our paper. One can download it to reproduce our paper results.
+* ```BTS_VAL.zip``` contains 10,188 images.
+* ```BTS_TRAIN.zip``` contains 2,696 images.
+* ```BTS_TEST.zip``` contains 1,366 images.
 
+In each zip packages, there are three folds.
+* ```image``` contains original images.
+* ```[SceneID]_[SampleID].jpg``` 
+
+* ```bpoly_label``` word-level and char-level labels corresponding to the images. 
+* ```[SceneID]_[SampleID]_anno.json``` 
+
+* ```semantic_label``` mask labels corresponding to the images. 
+* ```[SceneID]_[SampleID]_maskfg.png``` 
 
 In this table, we compare BTS with a variety of representative datasets. 
 
