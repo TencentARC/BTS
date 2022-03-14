@@ -21,7 +21,7 @@ We believe that varieties in these three perspectives can ensure the segmentatio
 to be well-trained with better generalization.
 
 <p align="center">
-  <img src="./figure/BTS_examples.png" width="99%">
+  <img src="./figure/BTS_examples.png" width="70%">
 </p>
 
 ### Dataset annotation.
@@ -42,7 +42,7 @@ after the labeling process, several professional researchers will double check t
 The designed workflow ensures all annotations to be made in relatively high quality and benchmark to be highly-reliable.
 
 <p align="center">
-  <img src="./figure/anno.bmp" width="99%">
+  <img src="./figure/anno.bmp" width="50%">
 </p>
 
 ### Dataset statistics.
