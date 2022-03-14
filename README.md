@@ -21,7 +21,7 @@ We believe that varieties in these three perspectives can ensure the segmentatio
 to be well-trained with better generalization.
 
 <p align="center">
-  <img src=".figure/BTS_examples.png" width="99%">
+  <img src="./figure/BTS_examples.png" width="99%">
 </p>
 
 ### Dataset annotation.
@@ -42,7 +42,7 @@ after the labeling process, several professional researchers will double check t
 The designed workflow ensures all annotations to be made in relatively high quality and benchmark to be highly-reliable.
 
 <p align="center">
-  <img src=".figure/anno.bmp" width="99%">
+  <img src="./figure/anno.bmp" width="99%">
 </p>
 
 ### Dataset statistics.
@@ -146,5 +146,4 @@ In this table, we compare BTS with a variety of representative datasets.
 
 ## Acknowledgements
 
-The directory `.\hrnet_code` is directly copied from the HRNet official github website [(link)](https://github.com/HRNet/HRNet-Semantic-Segmentation). HRNet code ownership should be credited to HRNet authors, and users should follow their terms of usage. 
 
