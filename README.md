@@ -133,12 +133,12 @@ In this table, we compare BTS with a variety of representative datasets.
   <tr>
     <td><b>BTS(Ours)</b></td>
     <td>Scene</td>
-    <td>14287</td>
-    <td>462</td>
-    <td>462</td>
-    <td>462</td>
-    <td>462</td>
-    <td>462</td>
+    <td>14250</td>
+    <td>44280</td>
+    <td>209090</td>
+    <td>Word,Char</td>
+    <td>3985</td>
+    <td>Bi-lingual</td>
   </tr>
 </table>
 </font>
