@@ -42,7 +42,7 @@ after the labeling process, several professional researchers will double check t
 The designed workflow ensures all annotations to be made in relatively high quality and benchmark to be highly-reliable.
 
 <p align="center">
-  <img src="./figure/anno.bmp" width="50%">
+  <img src="./figure/anno.bmp" width="70%">
 </p>
 
 ### Dataset statistics.
