@@ -71,14 +71,14 @@ In this table, we compare BTS with a variety of representative datasets.
 <font size="11" face="Courier New">
 <table>
   <tr>
-    <td colspan="2">Dataset</td>
-    <td colspan="2">Text Type</td>
-    <td colspan="2">Images</td>
-    <td colspan="2">Words</td>
-    <td colspan="2">Chars</td>
-    <td colspan="2">Masks</td>
-    <td colspan="2">Char Classes</td>
-    <td colspan="2">Language</td>
+    <td colspan="1">Dataset</td>
+    <td colspan="1">Text Type</td>
+    <td colspan="1">Images</td>
+    <td colspan="1">Words</td>
+    <td colspan="1">Chars</td>
+    <td colspan="1">Masks</td>
+    <td colspan="1">Char Classes</td>
+    <td colspan="1">Language</td>
   </tr>
   <tr>
     <td>ICDAR13 FST</td>
