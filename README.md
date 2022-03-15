@@ -8,8 +8,6 @@ This is the repo to host the dataset BTS from the following paper:
 To download the dataset, please send a request email to *15821795091@163.com* to get an agreement and sign.
 After verifying your request, we will provide the download link for you.
 
-## Abstract
-
 ## Selection of scenes. 
 The key motivation of the selection of scenes is to ensure the representation and generalization of the dataset. 
 First, we have images indoor and outdoor to balance the lighting conditions. 
