@@ -58,14 +58,11 @@ A full download should contain these files:
 * ```BTS_TEST.zip``` contains 1,366 images.
 
 In each zip packages, there are three folds.
-* ```image``` contains original images.
-* ```[SceneID]_[SampleID].jpg``` 
+* ```image``` contains original images. * ```[SceneID]_[SampleID].jpg``` 
 
-* ```bpoly_label``` word-level and char-level labels corresponding to the images. 
-* ```[SceneID]_[SampleID]_anno.json``` 
+* ```bpoly_label``` word-level and char-level labels corresponding to the images.  * ```[SceneID]_[SampleID]_anno.json``` 
 
-* ```semantic_label``` mask labels corresponding to the images. 
-* ```[SceneID]_[SampleID]_maskfg.png``` 
+* ```semantic_label``` mask labels corresponding to the images.  * ```[SceneID]_[SampleID]_maskfg.png``` 
 
 In this table, we compare BTS with a variety of representative datasets. 
 
