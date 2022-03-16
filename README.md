@@ -25,7 +25,7 @@ to be well-trained with better generalization.
 </p>
 
 ## Dataset annotation.
-BTS eliminate algorithms or out-of-the-box models for the labeling process to prevent some bad labeling cases. 
+BTS eliminate algorithms and out-of-the-box models for the labeling process to prevent some bad labeling cases. 
 The annotation workflow is as follows.
 
 - Images cleaning. Unqualified examples such as fuzzy images with unrecognizable characters and strokes will be filtered out.
@@ -44,8 +44,12 @@ The designed workflow ensures all annotations to be made in relatively high qual
 </p>
 
 ## Dataset statistics.
-BTS contains 14250 images: street signs-3,761; shop signs-4,145; plaques-2,158;
-attractions-1,024; covers of books-2,070; banners-601; couplets-491. 
+BTS contains 14250 images. 
+
+<p align="center">
+  <img src="./figure/dis_scene_pic.png" width="70%">
+</p>
+
 The distribution is nearly balanced,
 which is consistent with real-world distribution.
 
