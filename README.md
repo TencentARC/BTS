@@ -16,6 +16,7 @@ text line in different orientation (vertical and horizontal text in couplets and
 curve-shaped (some of the signboards). 
 - The third factor lies in the font diversity, e.g., 
 we have text images in printed font in textbook and artistic font on the signboard. 
+
 We believe that varieties in these three perspectives can ensure the segmentation model 
 to be well-trained with better generalization.
 
@@ -27,14 +28,12 @@ to be well-trained with better generalization.
 BTS eliminate algorithms or out-of-the-box models for the labeling process to prevent some bad labeling cases. 
 The annotation workflow is as follows.
 
-(1) Images cleaning. Unqualified examples such as fuzzy images with unrecognizable characters and strokes will be filtered out.
-
-(2) Manual annotation. All the images in BTS are manually annotated by humans in three levels, 
+- Images cleaning. Unqualified examples such as fuzzy images with unrecognizable characters and strokes will be filtered out.
+- Manual annotation. All the images in BTS are manually annotated by humans in three levels, 
 including the pixel-level, the character-level, and the line-level annotations. 
 PhotoShop is the main tool. The pencil tool in Photoshop is utilized to assist the annotators 
 to label pixel-level mask annotations for texts.  
-
-(3) Two rounds of quality checks. 
+- Two rounds of quality checks. 
 During the labeling process, annotators will cross check the annotations from each other; 
 after the labeling process, several professional researchers will double check the annotations. 
 
