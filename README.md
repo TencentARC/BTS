@@ -10,10 +10,11 @@ After verifying your request, we will provide the download link for you.
 
 ## Selection of scenes. 
 The key motivation of the selection of scenes is to ensure the representation and generalization of the dataset. 
-First, we have images indoor and outdoor to balance the lighting conditions. 
-Second, the text line appearance variety is also an important factor to be considered, i.e., 
+-First, we have images indoor and outdoor to balance the lighting conditions. 
+-Second, the text line appearance variety is also an important factor to be considered, i.e., 
 text line in different orientation (vertical and horizontal text in couplets and textbooks) and 
-curve-shaped (some of the signboards). The third factor lies in the font diversity, e.g., 
+curve-shaped (some of the signboards). 
+-The third factor lies in the font diversity, e.g., 
 we have text images in printed font in textbook and artistic font on the signboard. 
 We believe that varieties in these three perspectives can ensure the segmentation model 
 to be well-trained with better generalization.
