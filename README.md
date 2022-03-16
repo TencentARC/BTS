@@ -22,7 +22,7 @@ to be well-trained with better generalization.
   <img src="./figure/BTS_examples.png" width="70%">
 </p>
 
-### Dataset annotation.
+## Dataset annotation.
 BTS eliminate algorithms or out-of-the-box models for the labeling process to prevent some bad labeling cases. 
 The annotation workflow is as follows.
 
@@ -43,13 +43,13 @@ The designed workflow ensures all annotations to be made in relatively high qual
   <img src="./figure/anno.bmp" width="70%">
 </p>
 
-### Dataset statistics.
+## Dataset statistics.
 BTS contains 14250 images: street signs-3,761; shop signs-4,145; plaques-2,158;
 attractions-1,024; covers of books-2,070; banners-601; couplets-491. 
 The distribution is nearly balanced,
 which is consistent with real-world distribution.
 
-### Download
+## Download
 
 A full download should contain these files:
 
