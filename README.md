@@ -4,9 +4,16 @@ This is the repo to host the dataset BTS from the following paper:
 
 [Xixi Xu](), [Zhongang Qi](), [Jianqi Ma](https://github.com/mjq11302010044/), [Honglun Zhang](), [Ying Shan](), [Xiaohu Qie](), **BTS: A Bi-lingual Benchmark for Text Segmentation in the Wild**
 
+Summary of license permissions：
+
 **Our dataset is now fully released for academic use.** 
-To download the dataset, please send a request email to *15821795091@163.com* to get an agreement and sign.
-After verifying your request, we will provide the download link for you.
+The researcher shall use the BTS dataset only for non-commercial algorithm research and educational purposes. Except for the above purposes, the researcher may not use the BTS dataset for any other purposes, including but not limited to distribution, commercial use, advertising, etc.
+
+You can download the dataset from the following link, only if you agree to the above permissions.
+
+https://drive.weixin.qq.com/s?k=AJEAIQdfAAofh5N4rQ
+
+
 
 ## Selection of scenes. 
 The key motivation of the selection of scenes is to ensure the representation and generalization of the dataset. 
